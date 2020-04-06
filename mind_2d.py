@@ -49,5 +49,5 @@ def mind_ssd(source, target, **args):
     x_size, y_size = int(x_size), int(y_size)
     radius_x, radius_y = int(radius[1]), int(radius[0])
     sigma_x, sigma_y = float(sigma[1]), float(sigma[0])
-    result = fun(source, target, x_size, y_size, radius_x, radius_y, sigma_x, sigma_y)
+    result = fun(src, trg, x_size, y_size, radius_x, radius_y, sigma_x, sigma_y)
     return result
