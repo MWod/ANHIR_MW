@@ -1,6 +1,6 @@
 ## About
 
-The repository containts the software used by the AGH team during the ANHIR challenge organized jointly with the IEEE ISBI 2019 conference.
+The repository contains the software used by the AGH team during the ANHIR challenge organized jointly with the IEEE ISBI 2019 conference.
 The purpose of the repository is to make the results fully reproducible.
 
 ## Example
@@ -29,5 +29,5 @@ The software was tested on Ubuntu 16.04 LTS and Ubuntu 18.04 LTS and Python vers
 ## Acknowledgmnets
 
 If you found the software useful please cite:
-* J. Borovec *et.al*., *ANHIR: Automatic Non-rigid Histological Image Registration Challenge* (In Review)
+* J. Borovec et.al., ANHIR: Automatic Non-rigid Histological Image Registration Challenge, IEEE Transactions on Medical Imaging, 2020, DOI: 10.1109/TMI.2020.2986331
 * M. Wodzinski and A. Skalski, *Multistep, Automatic and Nonrigid Histological Image Registration Method for Differently Stained Tissues* (In Review)
