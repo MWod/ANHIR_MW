@@ -29,5 +29,5 @@ The software was tested on Ubuntu 16.04 LTS and Ubuntu 18.04 LTS and Python vers
 ## Acknowledgmnets
 
 If you found the software useful please cite:
-* J. Borovec et.al., ANHIR: Automatic Non-rigid Histological Image Registration Challenge, IEEE Transactions on Medical Imaging, 2020, DOI: 10.1109/TMI.2020.2986331
-* M. Wodzinski and A. Skalski, *Multistep, Automatic and Nonrigid Histological Image Registration Method for Differently Stained Tissues* (In Review)
+* J. Borovec et.al., ANHIR: Automatic Non-rigid Histological Image Registration Challenge, IEEE Transactions on Medical Imaging, 2020, DOI: 10.1109/TMI.2020.2986331 [Link](https://ieeexplore.ieee.org/document/9058666)
+* M. Wodzinski and A. Skalski, *Multistep, automatic and nonrigid image registration method for histology samples acquired using multiple stains*, Physics in Medicine and Biology, 2020, DOI: 10.1088/1361-6560/abcad7 [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abcad7/meta) Open Access
